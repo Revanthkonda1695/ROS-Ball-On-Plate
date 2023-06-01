@@ -1,0 +1,8 @@
+prefix=/home/revanthkonda/catkin_ws/install
+
+Name: robot_velocity_controller
+Description: Description of robot_velocity_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/revanthkonda/catkin_ws/install/lib 
+Requires: 
